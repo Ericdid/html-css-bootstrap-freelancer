@@ -31,7 +31,37 @@
 /* HEADER */
 
 #hamb {
-  padding: 0 1rem;
+  padding: 0 0.5rem;
   border: 1px solid white;
   border-radius: 10px;
+}
+
+/* Jumbo */
+
+#jumbo {
+  color: aliceblue;
+}
+/* main */
+#main {
+  color: #2c3e50;
+}
+/* about */
+#about {
+  color: aliceblue;
+}
+#download > span {
+  padding: 0.5rem;
+  border: 1px solid white;
+}
+/* contact */
+
+/* adress */
+#adress {
+  color: white;
+}
+#round {
+  border: 1px solid white;
+  padding: 0.2em;
+  margin: 0.5rem;
+  border-radius: 50%;
 }
