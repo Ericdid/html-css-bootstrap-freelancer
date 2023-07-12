@@ -55,6 +55,13 @@
 }
 /* contact */
 
+.ms-button {
+  background-color: #1abc9c;
+  color: white;
+  border: 1px solid transparent;
+  border-radius: 10px;
+}
+
 /* adress */
 #adress {
   color: white;
